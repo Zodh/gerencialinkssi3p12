@@ -1,0 +1,51 @@
+@font-face {
+    font-family: secrcode;
+    src: url(_font/secrcode.ttf);
+}
+
+#tituloMenu
+{
+    font-family: secrcode;
+    font-size: 18pt;
+}
+
+body
+{
+    background-color: rgba(0, 0, 0, .2);
+}
+
+#corpo{
+    text-align: center;
+}
+
+.container
+{
+    display: inline-block;
+    justify-content: space-around;
+}
+
+#caixaDeLinks
+{
+    margin-top: 5%;
+}
+
+#conteudo
+{
+    display: inline-block;
+}
+
+#equipeDocente
+{
+    position: relative;
+    width: auto;
+}
+
+.btgrupo
+{
+    width: 30%;
+}
+
+.materiaDocente
+{
+    text-align: justify;
+}
