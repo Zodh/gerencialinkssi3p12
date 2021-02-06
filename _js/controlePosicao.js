@@ -16,19 +16,19 @@ function levarUsuario(botao){
 
         if(botao == 'btAulas') {
 
-            window.scrollTo(805, 10);
+            window.scrollTo(805, 0);
 
         }
 
         if(botao == 'btGrupos') {
 
-            window.scrollTo(805, 375);
+            window.scrollTo(805, 300);
 
         }
 
         if(botao == 'btDocente') {
 
-            window.scrollTo(805, 675);
+            window.scrollTo(805, 550);
 
         }
         
