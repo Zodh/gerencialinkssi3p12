@@ -1,5 +1,7 @@
 <?php
 
+session_start();
+
 if(isset($_POST))
 {
 	$Email 		=$_POST["textEmail"];
@@ -12,17 +14,21 @@ if(isset($_POST))
 
 	if(mysqli_num_rows($Resultado_0) > 0 and $Valor_0["senha"] == $Senha)
 	{
-		$Comando_1 		="SELECT usuario FROM tabelaDeUsuarios where email = '$Email'";
+		$Comando_1 		="SELECT usuario FROM tabeladeusuarios where email = '$Email'";
 		$Resultado_1 	=mysqli_query($Conexao, $Comando_1);
         $Valor_1 	=mysqli_fetch_assoc($Resultado_1);
-        header("location:index.html")
+
+        $_SESSION['login'] = $Email;
+        $_SESSION['senha'] = $Senha;
+
+        header("location:../index.php");
 	}
 	else
 	{
         mysqli_close($Conexao);
+        header("location:../login.html");
         session_destroy();
 		exit();
-		header("location:login.html");
 	}
 }
 
