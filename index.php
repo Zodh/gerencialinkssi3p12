@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-
-	<?php
+<?php
 		
 		session_start();
 
@@ -14,8 +10,11 @@
   		}
 
 		$nome = $_SESSION['login'];
+?>
 
-	?>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
 
 	<title>Informações para a turma SI3P12</title>
 	<meta charset="utf-8">
