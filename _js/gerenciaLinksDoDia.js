@@ -41,17 +41,17 @@ function materiaDeHoje(dia) {
             
     if (dia == "Terça-feira") {
             
-        FraseA = "J13B - BD - 19:00~20:25"
-        FraseB = "J12B - POO - 20:40~22:00"
-        aula = "<hr><a href='linkzoom' class='btn btn-primary'>" + FraseA + "</a><hr><a href='linkzoom2' class='btn btn-primary'>" + FraseB + "</a>"
+        FraseA = "Linguagem Orientada a Objetos - 19:10~20:25"
+        FraseB = "Linguagem Orientada a Objetos - 20:45~22:00"
+        aula = "<hr><a href='https://zoom.us/j/91625002338' class='btn btn-primary'>" + FraseA + "</a><hr><a href='https://zoom.us/j/94744870505' class='btn btn-primary'>" + FraseB + "</a>"
     
     }
                 
     if (dia == "Quarta-feira") {
             
-        FraseA = "J13B - BD - 19:00~20:25"
-        FraseB = "J12B - POO - 20:40~22:00"
-        aula = "<hr><a href='linkzoom' class='btn btn-primary'>" + FraseA + "</a><hr><a href='linkzoom2' class='btn btn-primary'>" + FraseB + "</a>"
+        FraseA = "MOD SIST ORIENT OBJ - 19:10~20:25"
+        FraseB = "MOD SIST ORIENT OBJ - 20:45~22:00"
+        aula = "<hr><a href='https://zoom.us/j/95781527369' class='btn btn-primary'>" + FraseA + "</a><hr><a href='https://zoom.us/j/96918975280' class='btn btn-primary'>" + FraseB + "</a>"
         
     }
                     
