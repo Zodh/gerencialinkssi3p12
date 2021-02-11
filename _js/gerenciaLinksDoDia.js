@@ -57,9 +57,9 @@ function materiaDeHoje(dia) {
                     
     if (dia == "Quinta-feira") {
             
-        FraseA = "J13B - BD - 19:00~20:25"
-        FraseB = "J12B - POO - 20:40~22:00"
-        aula = "<hr><a href='linkzoom' class='btn btn-primary'>" + FraseA + "</a><hr><a href='linkzoom2' class='btn btn-primary'>" + FraseB + "</a>"
+        FraseA = "N282 - ESTAT. PROBABILIDADE - 19:10~20:25"
+        FraseB = "N282 - ESTAT. PROBABILIDADE - 20:45~22:00"
+        aula = "<hr><a href='https://zoom.us/j/98853029872' class='btn btn-primary'>" + FraseA + "</a><hr><a href='https://zoom.us/j/92356685877' class='btn btn-primary'>" + FraseB + "</a>"
             
     }
                         
