@@ -61,7 +61,7 @@ function materiaDeHoje(dia) {
         FraseBb = "N277 - PARADIGMAS DE LINGUAGENS (PAR)- 20:45~22:00"
         FraseA = "N282 - ESTAT. PROBABILIDADE (IMPAR)- 19:10~20:25"
         FraseB = "N282 - ESTAT. PROBABILIDADE (IMPAR)- 20:45~22:00"
-        aula = "<hr><a href='https://zoom.us/j/99744688240' target='_BLANK' class='btn btn-primary'>" + FraseAb + "</a><hr><a href='2o horário: https://zoom.us/j/91241836583' target='_BLANK' class='btn btn-primary'>" + FraseBb + "</a><hr><a href='https://zoom.us/j/98853029872' target='_BLANK' class='btn btn-primary'>" + FraseA + "</a><hr><a href='https://zoom.us/j/92356685877' target='_BLANK' class='btn btn-primary'>" + FraseB + "</a>"
+        aula = "<hr><a href='https://zoom.us/j/99744688240' target='_BLANK' class='btn btn-primary'>" + FraseAb + "</a><hr><a href='https://zoom.us/j/91241836583' target='_BLANK' class='btn btn-primary'>" + FraseBb + "</a><hr><a href='https://zoom.us/j/98853029872' target='_BLANK' class='btn btn-primary'>" + FraseA + "</a><hr><a href='https://zoom.us/j/92356685877' target='_BLANK' class='btn btn-primary'>" + FraseB + "</a>"
 
     }
                         
