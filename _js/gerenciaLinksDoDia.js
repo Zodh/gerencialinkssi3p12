@@ -43,7 +43,7 @@ function materiaDeHoje(dia) {
             
         FraseA = "Linguagem Orientada a Objetos - 19:10~20:25"
         FraseB = "Linguagem Orientada a Objetos - 20:45~22:00"
-        aula = "<hr><a href='https://zoom.us/j/91625002338' class='btn btn-primary'>" + FraseA + "</a><hr><a href='https://zoom.us/j/94744870505' class='btn btn-primary'>" + FraseB + "</a>"
+        aula = "<hr><a href='https://zoom.us/j/91625002338' target='_BLANK' class='btn btn-primary'>" + FraseA + "</a><hr><a href='https://zoom.us/j/94744870505' target='_BLANK' class='btn btn-primary'>" + FraseB + "</a>"
     
     }
                 
@@ -51,7 +51,7 @@ function materiaDeHoje(dia) {
             
         FraseA = "MOD SIST ORIENT OBJ - 19:10~20:25"
         FraseB = "MOD SIST ORIENT OBJ - 20:45~22:00"
-        aula = "<hr><a href='https://zoom.us/j/95781527369' class='btn btn-primary'>" + FraseA + "</a><hr><a href='https://zoom.us/j/96918975280' class='btn btn-primary'>" + FraseB + "</a>"
+        aula = "<hr><a href='https://zoom.us/j/95781527369' target='_BLANK' class='btn btn-primary'>" + FraseA + "</a><hr><a href='https://zoom.us/j/96918975280' target='_BLANK' class='btn btn-primary'>" + FraseB + "</a>"
         
     }
                     
@@ -59,7 +59,7 @@ function materiaDeHoje(dia) {
             
         FraseA = "N282 - ESTAT. PROBABILIDADE - 19:10~20:25"
         FraseB = "N282 - ESTAT. PROBABILIDADE - 20:45~22:00"
-        aula = "<hr><a href='https://zoom.us/j/98853029872' class='btn btn-primary'>" + FraseA + "</a><hr><a href='https://zoom.us/j/92356685877' class='btn btn-primary'>" + FraseB + "</a>"
+        aula = "<hr><a href='https://zoom.us/j/98853029872' target='_BLANK' class='btn btn-primary'>" + FraseA + "</a><hr><a href='https://zoom.us/j/92356685877' target='_BLANK' class='btn btn-primary'>" + FraseB + "</a>"
             
     }
                         
