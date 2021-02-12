@@ -41,9 +41,11 @@ function materiaDeHoje(dia) {
             
     if (dia == "Terça-feira") {
             
-        FraseA = "Linguagem Orientada a Objetos - 19:10~20:25"
-        FraseB = "Linguagem Orientada a Objetos - 20:45~22:00"
-        aula = "<hr><a href='https://zoom.us/j/91625002338' target='_BLANK' class='btn btn-primary'>" + FraseA + "</a><hr><a href='https://zoom.us/j/94744870505' target='_BLANK' class='btn btn-primary'>" + FraseB + "</a>"
+        FraseAb = "LING. ORI. A OBJETOS - 19:10~20:25"
+        FraseBb = "LING. ORI. A OBJETOS - 20:45~22:00"
+        FraseA = "LING. ORI. A OBJETOS - 19:10~20:25"
+        FraseB = "LING. ORI. A OBJETOS - 20:45~22:00"
+        aula = "<hr><a href='https://zoom.us/j/91625002338' class='btn btn-primary'>" + FraseAb + "</a><hr><a href='https://zoom.us/j/94744870505' class='btn btn-primary'>" + FraseBb + "</a>"
     
     }
                 
@@ -61,15 +63,15 @@ function materiaDeHoje(dia) {
         FraseBb = "N277 - PARADIGMAS DE LINGUAGENS (PAR)- 20:45~22:00"
         FraseA = "N282 - ESTAT. PROBABILIDADE (IMPAR)- 19:10~20:25"
         FraseB = "N282 - ESTAT. PROBABILIDADE (IMPAR)- 20:45~22:00"
-        aula = "<hr><a href='https://zoom.us/j/99744688240' class='btn btn-primary'>" + FraseAb + "</a><hr><a href='https://zoom.us/j/91241836583' class='btn btn-primary'>" + FraseBb + "</a><hr><a href='https://zoom.us/j/98853029872' target='_BLANK' class='btn btn-primary'>" + FraseA + "</a><hr><a href='https://zoom.us/j/92356685877' target='_BLANK' class='btn btn-primary'>" + FraseB + "</a>"
+        aula = "<hr><a href='https://zoom.us/j/99744688240' class='btn btn-primary'>" + FraseAb + "</a><hr><a href='https://zoom.us/j/91241836583' class='btn btn-primary'>" + FraseBb + "</a><hr><a href='https://zoom.us/j/98853029872' class='btn btn-primary'>" + FraseA + "</a><hr><a href='https://zoom.us/j/92356685877' class='btn btn-primary'>" + FraseB + "</a>"
 
     }
                         
     if (dia == "Sexta-feira") {
             
-        FraseA = "J13B - BD - 19:00~20:25"
-        FraseB = "J12B - POO - 20:40~22:00"
-        aula = "<hr><a href='linkzoom' class='btn btn-primary'>" + FraseA + "</a><hr><a href='linkzoom2' class='btn btn-primary'>" + FraseB + "</a>"
+        FraseA = "LING. ORI. A OBJETOS - 19:10~20:25"
+        FraseB = "LING. ORI. A OBJETOS - 20:45~22:00"
+        aula = "<hr><a href='#' class='btn btn-primary'>" + FraseA + "</a><hr><a href='#' class='btn btn-primary'>" + FraseB + "</a>"
                 
     } 
     
