@@ -43,8 +43,8 @@ function materiaDeHoje(dia) {
             
         FraseAb = "LING. ORI. A OBJETOS - 19:10~20:25"
         FraseBb = "LING. ORI. A OBJETOS - 20:45~22:00"
-        FraseA = "LING. ORI. A OBJETOS - 19:10~20:25"
-        FraseB = "LING. ORI. A OBJETOS - 20:45~22:00"
+    //  FraseA = "LING. ORI. A OBJETOS - 19:10~20:25"
+    //  FraseB = "LING. ORI. A OBJETOS - 20:45~22:00"
         aula = "<hr><a href='https://zoom.us/j/91625002338' class='btn btn-primary'>" + FraseAb + "</a><hr><a href='https://zoom.us/j/94744870505' class='btn btn-primary'>" + FraseBb + "</a>"
     
     }
