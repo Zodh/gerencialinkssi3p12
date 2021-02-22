@@ -35,7 +35,7 @@ function materiaDeHoje(dia) {
             
         FraseA = "J13B - BANCO DE DADOS - 19:10~20:25"
         FraseB = "J13B - BANCO DE DADOS - 20:45~22:00"
-        aula = "<hr><a href='https://zoom.us/j/99723144869' class='btn btn-primary'>" + FraseA + "</a><hr><a href='linkzoom2' class='btn btn-primary'>" + FraseB + "</a>"
+        aula = "<hr><a href='https://zoom.us/j/99723144869' class='btn btn-primary'>" + FraseA + "</a><hr><a href='https://zoom.us/j/91915939232' class='btn btn-primary'>" + FraseB + "</a>"
 
     }
             
